@@ -1,17 +1,39 @@
 {
-    "project": "多功型年录音自经",
+    "project": "多功能厅音视频系统",
     "date": "2026-06-07",
     "devices": [
         {
-            "name": "数字宣音药",
+            "name": "数字调音台",
             "brand": "Yamaha",
             "model": "DM7",
             "qty": 1,
-            "unit": '友',
+            "unit": "台",
             "unit_price": 85000,
             "total_price": 85000,
-            "params": "32课籹/16课籹%~50'虜表屏，96KHz量宜，'32bit派Ϧ挄, 内置Dante控口）",
-            "remark": "#为银药"
+            "params": "32路输入/16路输出, 7英寸触摸屏, 96kHz采样率, 32bit浮点处理, 内置Dante接口",
+            "remark": "主调音位"
+        },
+        {
+            "name": "有源线阵列音箱",
+            "brand": "BOSE",
+            "model": "LineMatch 402",
+            "qty": 8,
+            "unit": "只",
+            "unit_price": 12000,
+            "total_price": 96000,
+            "params": "4x4.5英寸低频单元, 16个钕磁高音, 频响:65Hz-20kHz, 峰值声压级:126dB, 内置DSP功放",
+            "remark": "主扩声"
+        },
+        {
+            "name": "无线手持话筒",
+            "brand": "SHURE",
+            "model": "SLXD24/SM58",
+            "qty": 4,
+            "unit": "套",
+            "unit_price": 4500,
+            "total_price": 18000,
+            "params": "SLXD4接收机+SLXD2手持+SM58, 频段:470-636MHz, 100米工作距离",
+            "remark": "备用: 1套"
         }
     ]
 }
