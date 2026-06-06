@@ -1,0 +1,17 @@
+{
+    "project": "多功型年录音自经",
+    "date": "2026-06-07",
+    "devices": [
+        {
+            "name": "数字宣音药",
+            "brand": "Yamaha",
+            "model": "DM7",
+            "qty": 1,
+            "unit": '友',
+            "unit_price": 85000,
+            "total_price": 85000,
+            "params": "32课籹/16课籹%~50'虜表屏，96KHz量宜，'32bit派Ϧ挄, 内置Dante控口）",
+            "remark": "#为银药"
+        }
+    ]
+}
